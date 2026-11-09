@@ -17,7 +17,7 @@
 Desenvolvedor de software web 💻, em constante aprendizado. Gosto de construir projetos, praticar lógica e transformar ideias em aplicações funcionando.
 
 - 🌐 Desenvolvo aplicações web
-- 🛠️ Stack principal: **HTML, CSS, JavaScript, Node.js e MySQL**
+- 🛠️ Stack principal: **HTML, CSS, JavaScript, EJS, Node.js e MySQL**
 - 🤖 Já explorei **Machine Learning** com Teachable Machine
 - 🌱 Estudando: projetos integradores, lógica de programação e boas práticas de código
 - 🎯 Objetivo: evoluir como desenvolvedor **Full Stack**
