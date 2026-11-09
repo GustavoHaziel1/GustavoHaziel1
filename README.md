@@ -39,7 +39,6 @@ Desenvolvedor de software web 💻, em constante aprendizado. Gosto de construir
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="40" title="phpMyAdmin"/>
 </p>
 
 **Ferramentas**
@@ -64,7 +63,7 @@ Desenvolvedor de software web 💻, em constante aprendizado. Gosto de construir
 
 ## 📈 Em evolução
 
-- 🧱 Praticando JavaScript com projetos do dia a dia
+- 🧱 Praticando Desenvolvimento com projetos do dia a dia
 - 🔄 Mantendo o GitHub ativo com novos projetos e exercícios
 - 🚀 Caminhando para o desenvolvimento Full Stack
 
