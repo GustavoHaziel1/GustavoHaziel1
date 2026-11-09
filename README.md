@@ -32,7 +32,7 @@ Desenvolvedor de software web 💻, em constante aprendizado. Gosto de construir
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="ejs.svg" width="40" title="EJS"/>
+  <img src="https://github.com/GustavoHaziel1/GustavoHaziel1/raw/main/ejs.svg" width="40" title="EJS"/>
 </p>
 
 **Back-end & Banco de dados**
