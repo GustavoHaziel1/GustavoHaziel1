@@ -17,7 +17,7 @@
 Desenvolvedor de software web 💻, em constante aprendizado. Gosto de construir projetos, praticar lógica e transformar ideias em aplicações funcionando.
 
 - 🌐 Desenvolvo aplicações web
-- 🛠️ Stack principal: **HTML, CSS e JavaScript**
+- 🛠️ Stack principal: **HTML, CSS, JavaScript, Node.js e MySQL**
 - 🤖 Já explorei **Machine Learning** com Teachable Machine
 - 🌱 Estudando: projetos integradores, lógica de programação e boas práticas de código
 - 🎯 Objetivo: evoluir como desenvolvedor **Full Stack**
@@ -32,6 +32,14 @@ Desenvolvedor de software web 💻, em constante aprendizado. Gosto de construir
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+</p>
+
+**Back-end & Banco de dados**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="40" title="phpMyAdmin"/>
 </p>
 
 **Ferramentas**
@@ -51,8 +59,6 @@ Desenvolvedor de software web 💻, em constante aprendizado. Gosto de construir
 | [**prinpr**](https://github.com/GustavoHaziel1/prinpr) | Jogo de termo com sistema de rankeamento, projeto final de 1 ano | JavaScript |
 | [**TEOPI**](https://github.com/GustavoHaziel1/TEOPI) | Estudos da disciplina de Tópicos Especiais e Projeto Integrador | HTML |
 | [**Projeto_TeachableMachine**](https://github.com/GustavoHaziel1/Projeto_TeachableMachine) | Projeto de Machine Learning da disciplina de TEOPI | HTML |
-| [**PRMO**](https://github.com/GustavoHaziel1/PRMO) | Repositório público | — |
-| [**ex17-query-strings**](https://github.com/GustavoHaziel1/ex17-query-strings) | Exercício 17: Query Strings | JavaScript |
 
 ---
 
